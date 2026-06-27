@@ -16,7 +16,7 @@ export const resumeConfig: ResumeConfig = {
       zh: [
         '具备较强的学习能力、沟通能力和执行推进能力，能够较快理解业务流程、系统逻辑及客户需求。',
         '有运营实习、学生组织统筹及项目协作经历，积累了需求确认、流程跟进、跨角色沟通、文档整理和交付检查经验。',
-        '具备 Java、MySQL、SQL 基础，了解 RuoYi 框架，可使用 Docker 进行基础部署，熟悉 Windows、Linux 基础操作。',
+        '具备 Java、MySQL、SQL 基础，了解 RuoYi 框架，可使用 Docker 进行基础部署，熟悉 Windows、Linux 基础操作,掌握HTML、CSS和web。',
         '主动了解过 LIMS 系统的样品流转、数据追溯、报告管理等场景，希望在实施工程师岗位上持续提升需求分析、文档输出、系统支持和项目交付能力。',
       ],
       en: [
