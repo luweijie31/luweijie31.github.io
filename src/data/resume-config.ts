@@ -5,8 +5,8 @@ export const resumeConfig: ResumeConfig = {
     name: '鲁伟杰',
     photoBackEmoji: '',
     title: {
-      zh: 'LIMS实施工程师求职方向',
-      en: 'LIMS Implementation Engineer Candidate',
+      zh: '实施工程师求职方向',
+      en: 'Implementation Engineer Candidate',
     },
     subtitle: {
       zh: '需求分析 · SQL/MySQL · Linux/Docker · 文档与交付支持',
