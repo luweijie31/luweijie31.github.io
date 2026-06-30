@@ -46,7 +46,7 @@ export const resumeConfig: ResumeConfig = {
   contact: [
     { type: 'email', label: '2090432713@qq.com' },
     { type: 'phone', label: '13218714668' },
-    { type: 'location', label: '求职意向：上海 / Open to Shanghai' },
+    { type: 'location', label: '求职意向：江苏 / Open to China' },
   ],
 
   skills: [
