@@ -5,7 +5,7 @@ export const resumeConfig: ResumeConfig = {
     name: '鲁伟杰',
     photoBackEmoji: '',
     title: {
-      zh: '实施工程师求职方向',
+      zh: '软件工程师求职方向',
       en: 'Implementation Engineer Candidate',
     },
     subtitle: {
